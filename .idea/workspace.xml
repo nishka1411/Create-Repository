@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21a9488e-3fb8-48ec-a18e-59e8e3f528a5" name="Changes" comment="exlamation mark" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="b7f8825c3929d154436ccae0527d325da12e81ba" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2s5eV25w4CTq7MFN3ynTRgDytu1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Student/PycharmProjects/PythonProject",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21a9488e-3fb8-48ec-a18e-59e8e3f528a5" name="Changes" comment="" />
+      <created>1737749882951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737749882951</updated>
+    </task>
+    <task id="LOCAL-00001" summary="I printed my name is blank">
+      <option name="closed" value="true" />
+      <created>1753230234800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753230234800</updated>
+    </task>
+    <task id="LOCAL-00002" summary="I printed my name is &quot;variable name w input&quot;">
+      <option name="closed" value="true" />
+      <created>1753230542598</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753230542598</updated>
+    </task>
+    <task id="LOCAL-00003" summary="I changed the print form my name is &quot;variable name w input&quot; to your name is &quot;variable name w input&quot;">
+      <option name="closed" value="true" />
+      <created>1753230597069</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753230597069</updated>
+    </task>
+    <task id="LOCAL-00004" summary="I told them im a know it all">
+      <option name="closed" value="true" />
+      <created>1753230640777</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753230640777</updated>
+    </task>
+    <task id="LOCAL-00005" summary="I added that they have a beautiful name">
+      <option name="closed" value="true" />
+      <created>1753230701320</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753230701320</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HI">
+      <option name="closed" value="true" />
+      <created>1753289001268</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753289001268</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Needed more entusiasm">
+      <option name="closed" value="true" />
+      <created>1753289016971</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753289016971</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Needed more exclamation marks">
+      <option name="closed" value="true" />
+      <created>1753289031040</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1753289031040</updated>
+    </task>
+    <task id="LOCAL-00009" summary="HELLO">
+      <option name="closed" value="true" />
+      <created>1753289062004</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753289062004</updated>
+    </task>
+    <task id="LOCAL-00010" summary="exlamation mark">
+      <option name="closed" value="true" />
+      <created>1753289085799</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753289085799</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I printed my name is blank" />
+    <MESSAGE value="I printed my name is &quot;variable name w input&quot;" />
+    <MESSAGE value="I changed the print form my name is &quot;variable name w input&quot; to your name is &quot;variable name w input&quot;" />
+    <MESSAGE value="I told them im a know it all" />
+    <MESSAGE value="I added that they have a beautiful name" />
+    <MESSAGE value="HI" />
+    <MESSAGE value="Needed more entusiasm" />
+    <MESSAGE value="Needed more exclamation marks" />
+    <MESSAGE value="HELLO" />
+    <MESSAGE value="exlamation mark" />
+    <option name="LAST_COMMIT_MESSAGE" value="exlamation mark" />
+  </component>
+</project>
