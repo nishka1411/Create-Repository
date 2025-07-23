@@ -1,2 +1,3 @@
 name = input("what is your name?")
 print("Hello your name is "+ name)
+print("IM SUCH A KNOW IT ALL MUHAHAHHAHAHHA")
